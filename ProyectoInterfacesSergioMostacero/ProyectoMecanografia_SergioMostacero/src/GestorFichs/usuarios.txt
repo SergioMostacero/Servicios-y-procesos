@@ -1,0 +1,4 @@
+USR001;sergio;12345;smosta0@gmail.com
+USR002;hugoJ;123456;a@a
+USR003;beatriz;4321;beatrizmartinez@1234
+USR004;a;a;a@a
